@@ -12,7 +12,7 @@ The file will work was done on RStudio. It will require 2 external packages, bot
 
 (2) The grepl method was used extract the numerical information, ignoring the entries where there were multiple and singular dollar signs, commas and text (“no salary data”).
 
-(3) Using the top_n from dplyr, there was a new dataset of the top 125 salaries (not players, since there could be ties), and then the average was taken.
+(3) Using the top_n from dplyr, a new dataset of the top 125 salaries (not players, since there could be ties) was made, and then the average was taken from the top 125 salaries.
 
 ## Data
 
