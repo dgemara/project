@@ -16,4 +16,4 @@ The file will work was done on RStudio. It will require 2 external packages, bot
 
 ## Data
 
-The players' salaries was provided in the questionnaire composed from the Philadelphia Phillies analytics team 
+The players' salaries was provided in the questionnaire composed from the Philadelphia Phillies analytics team.
