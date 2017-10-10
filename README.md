@@ -4,7 +4,7 @@ Using the provided [dataset](https://questionnaire-148920.appspot.com/swe/), the
 
 ## Installation
 
-The file will work was done on RStudio. It will require 2 external packages, both available on CRAN. The packages are [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html) and [rvest](https://cran.r-project.org/web/packages/rvest/index.html).
+The file will work on RStudio. It will require 2 external packages, both available on CRAN. The packages are [dplyr](https://cran.r-project.org/web/packages/dplyr/index.html) and [rvest](https://cran.r-project.org/web/packages/rvest/index.html).
 
 ## Methods
 
